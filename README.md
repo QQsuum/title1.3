@@ -1,2 +1,2 @@
 permalink: /index.html
-PAGES: https://qqsuum.github.io/QQsuum-github.io/
+PAGES: https://qqsuum.github.io/title1.3/
